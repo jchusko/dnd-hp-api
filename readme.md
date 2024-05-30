@@ -2,7 +2,7 @@
 
 ## Overview
 
-This REST API demonstrates health point management of a D&D style player character as described by [this assignment](https://github.com/DnDBeyond/back-end-developer-challenge).
+This REST API demonstrates health point management of a D&D style player character.
 
 ## Tech Stack
 
